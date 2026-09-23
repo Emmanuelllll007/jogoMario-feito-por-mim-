@@ -1,5 +1,26 @@
 # jogoMario-feito-por-mim-
+
+## Descrição
+
+Projeto voltado a criação de um jogo simples do Mário, envolvendo tecnologias estudadas em sala de aula.
+
+## Objetivo
+
 Repositório criado para aprendizado sobre git e github e um pouco de html, css e javascript
+
+## Tecnologias
+
+- HTML
+- CSS
+- Javascript
+
+## Instalação
+
+Ainda a ser definida
+
+##Execução
+
+Ainda a ser definida
 
 ## Integrantes
 
